@@ -4,8 +4,11 @@ Hello World
 Hi everyone
 
 changes from github
+<<<<<<< HEAD
 
 another change made
 
 
 hello again
+
+parent of 5330dab... first.txt updated
